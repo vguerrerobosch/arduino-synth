@@ -1,6 +1,6 @@
 # Arduino Synth
 
-A simple Synthetizer using Arduino using PWM.
+A simple Synthetizer for Arduino using pulse-width modulation (PWM).
 
 ## Credits
 
